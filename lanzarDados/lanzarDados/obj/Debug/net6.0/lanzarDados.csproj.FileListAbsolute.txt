@@ -1,0 +1,15 @@
+/Applications/XAMPP/xamppfiles/htdocs/lanzarDados/lanzarDados/bin/Debug/net6.0/lanzarDados
+/Applications/XAMPP/xamppfiles/htdocs/lanzarDados/lanzarDados/bin/Debug/net6.0/lanzarDados.deps.json
+/Applications/XAMPP/xamppfiles/htdocs/lanzarDados/lanzarDados/bin/Debug/net6.0/lanzarDados.runtimeconfig.json
+/Applications/XAMPP/xamppfiles/htdocs/lanzarDados/lanzarDados/bin/Debug/net6.0/lanzarDados.dll
+/Applications/XAMPP/xamppfiles/htdocs/lanzarDados/lanzarDados/bin/Debug/net6.0/lanzarDados.pdb
+/Applications/XAMPP/xamppfiles/htdocs/lanzarDados/lanzarDados/obj/Debug/net6.0/lanzarDados.csproj.AssemblyReference.cache
+/Applications/XAMPP/xamppfiles/htdocs/lanzarDados/lanzarDados/obj/Debug/net6.0/lanzarDados.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/XAMPP/xamppfiles/htdocs/lanzarDados/lanzarDados/obj/Debug/net6.0/lanzarDados.AssemblyInfoInputs.cache
+/Applications/XAMPP/xamppfiles/htdocs/lanzarDados/lanzarDados/obj/Debug/net6.0/lanzarDados.AssemblyInfo.cs
+/Applications/XAMPP/xamppfiles/htdocs/lanzarDados/lanzarDados/obj/Debug/net6.0/lanzarDados.csproj.CoreCompileInputs.cache
+/Applications/XAMPP/xamppfiles/htdocs/lanzarDados/lanzarDados/obj/Debug/net6.0/lanzarDados.dll
+/Applications/XAMPP/xamppfiles/htdocs/lanzarDados/lanzarDados/obj/Debug/net6.0/refint/lanzarDados.dll
+/Applications/XAMPP/xamppfiles/htdocs/lanzarDados/lanzarDados/obj/Debug/net6.0/lanzarDados.pdb
+/Applications/XAMPP/xamppfiles/htdocs/lanzarDados/lanzarDados/obj/Debug/net6.0/lanzarDados.genruntimeconfig.cache
+/Applications/XAMPP/xamppfiles/htdocs/lanzarDados/lanzarDados/obj/Debug/net6.0/ref/lanzarDados.dll
